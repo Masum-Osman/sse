@@ -89,9 +89,3 @@ The Go server is configured to handle **CORS** (Cross-Origin Resource Sharing) t
 - If you receive CORS-related errors, ensure your server is configured with the correct headers.
 - Make sure your Go server is running and accessible at the specified port.
 - If you experience a **connection refused** error, ensure that the server is correctly listening on the right port (`8080` in this example).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
